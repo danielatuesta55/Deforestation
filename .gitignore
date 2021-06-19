@@ -4,7 +4,7 @@ DS.store
 desktop.ini
 
 config.js
-
+.ipynb_checkpoints
 deep_sea_corals.csv
 *.csv
 # Byte-compiled / optimized / DLL files
