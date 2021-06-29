@@ -1,3 +1,0 @@
-Download dataset here: https://www.kaggle.com/noaa/deep-sea-corals/download
-
-and place into folder "data"

@@ -1,7 +1,7 @@
-# Project 2 - Coral Reef Exploration
-![CoralReefs](https://media.giphy.com/media/xUOwG1GXJvJlajETMk/giphy.gif)
+# Project 2 - Deforestation in the Amazon Rain Forest 
+![rainForest](https://media.giphy.com/media/eGNpmOUeIIYUB4P4Al/giphy.gif)
 
-## Developer/Student Commentary:
+## Developer/Student Commentary: 
 This Repository has been made to summit the project assignment for our Data Science Bootcamp at Northwestern University
 
 PROJECT 2
@@ -16,27 +16,29 @@ This project was created by:
 * Jhon Strode [Github Profile](https://github.com/jdstrode)
 
 
-## Chosen topic Croal Reefs!
+## Chosen topic Amazon Rain Forest Deforestation!
+![Defo](https://media.giphy.com/media/l378zCNZopqr11jt6/giphy.gif)
+
+Deforestation, one of humans kind worst attributes. By demolishing our rainforest, we are essentially creating our paths towards extinction. Christina Nunez (2019) mentions that between 1990 and 2016, the world lost 502,000 square miles (1.3 million square kilometers) of the forest. If you think about that number is equivalent to an area larger than South Africa. 
+
+[Link to the National Geographic article by Christina Nunez]( https://www.nationalgeographic.com/environment/article/deforestation#:~:text=Between%201990%20and%202016%2C%20the,study%20in%20the%20journal%20Nature)
+
+The link between deforestation and global warming has been proven over time by multiple studies, scientists, and activists; with that said, deforestation is still happening. For this particular project, we researched the world's biggest rainforest, The Amazon rainforest. Multiples countries share this forest, but the country that has the most land is Brazil. 
 
 ![earth](https://media.giphy.com/media/lN9wakZ84b8tn7lUwy/giphy.gif)
 
-With drastic predictions that humans will demolish the seas floor by the year 2054, we decided to focus our attention on creating a visualization tool for users to see the changes of coral reefs in recent years worldwide. The idea behind this is to showcase the drastic impact that we are having on our ocean floors and at the same time create consciousness to the user of said problem.
+We looked into Brazil to see the history of deforestation and their ongoing attempts to stop it. WE gather data from the year 2004 till the year 2019; critical years in the war against deforestation. It was not until 2003 that the government started to regulate deforestation in the Amazon rainforest firmly. With new implementations came new challenges and the effect this had at the beginning was astonishing. As you can see on our graphs, deforestation went down, but it wasn't until 2008 and, more specifically, 2015 when illegal deforestation started to take a toll on the Amazon Rain forest. With the government possibly lowering their guard on this crucial aspect, multiple agencies saw this as a chance to take a piece of the forest for profit.
 
-Understanding that humans won’t call earth home if the ocean dies is crucial in this never-ending battle with global warming, recycling, and fishing! We hope that with this tool, the user can understand visually what’s happening to our reefs around the world. Now get ready to dive into the seas!
+This project aims to showcase the efficiency of public policies if they are upheld and the need for deforestation to stop. Although we understand that this is one rain forest and one country, we know its impact on our ecosystem. 
 
-![dive](https://media.giphy.com/media/DYN1SaIzX2IXehqbDz/giphy.gif
-)
+With this said, we want to give a massive shoutout to everyone putting in the hours day after day to make this stop. We hear you, and we acknowledge you! 
+
+![save](https://media.giphy.com/media/8wDZGFONZeXi5nBZns/giphy.gif)
 
 ## Data sets
-Here are the links to the data sets used for this project: 
+Here are the links to the data sets used for this project:
 
-Coral Reef Data set: [Click Here](https://www.kaggle.com/noaa/deep-sea-corals/download)
-
-Global warming Data set: [Click Here](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
-
-Temperatures Data set: [Click Here](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) 
-
-Temperatures Data set 2: [Click Here](https://www.ncei.noaa.gov/access/coastal-water-temperature-guide/all_tmap.html) 
+Deforestation Data set: [Click Here](https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation)
 
 
 NOAA Website: https://coralreefwatch.noaa.gov/crtr/data_resources.php
@@ -48,6 +50,4 @@ Here are some screen shots of diffrent maps that have a strong impact to visuali
 1. ![inspiration1](Images/1.png)
 2. ![inspiration2](Images/2.png)
 3. ![inspiration3](Images/3.png)
-4. ![inspiration4](Images/4.png)   
-
-
+4. ![inspiration4](Images/4.png)
