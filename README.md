@@ -42,6 +42,24 @@ Deforestation Data set: [Click Here](https://www.kaggle.com/mbogernetto/brazilia
 
 NOAA Website: https://coralreefwatch.noaa.gov/crtr/data_resources.php
 
+## Important Notice
+
+Strart by downloading this into your enviroment 
+`<pip intstall pandas>`
+`<pip intstall flask>`
+`<pip intstall flask_mongoengine>`
+`<pip intstall flask_pymongo>`
+`<pip intstall numpy>`
+
+Since you need to deploy a Flask app it is really important that you run your terminal in shell. To run a shell you will need to type the following in your terminal `<pipenv run python app.py>`
+
+Click on the server seen in the terminal to access the webpage and enjoy! 
+
+
+
+
+
+
 ## Inspiration for our data visualizations
 
 Here are some screen shots of diffrent maps that have a strong impact to visualize data.
