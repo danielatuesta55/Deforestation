@@ -1,6 +1,5 @@
 # Project 2 - Deforestation in the Amazon Rain Forest 
-![rainForest](https://media.giphy.com/media/eGNpmOUeIIYUB4P4Al/giphy.gif)
-
+![Defo1](https://media.giphy.com/media/eGNpmOUeIIYUB4P4Al/giphy.gif)
 ## Developer/Student Commentary: 
 This Repository has been made to summit the project assignment for our Data Science Bootcamp at Northwestern University
 
