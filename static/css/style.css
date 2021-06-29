@@ -11,20 +11,50 @@ html {
 
 body {
   /* Padding bottom by footer height */
-  background-image: linear-gradient(#00755e, rgba(255, 122,89));
+  background-image: linear-gradient(0deg, rgba(53, 103, 73, 1) 10%, rgba(78, 128, 97, 1) 20%, rgba(103, 154, 122, 1) 35%, rgba(129, 181, 148, 1) 45%, rgba(155, 209, 174, 1) 55%, rgba(183, 238, 202, 1) 65%, rgba(211, 255, 230, 1) 80%, rgba(239, 255, 255, 1) 90%, rgba(255, 255, 255, 1) 100%);
   padding-bottom: 80px;
+}
+
+.text-center {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4b/Amazon_Manaus_forest.jpg);
+  background-image: linear-gradient();
+  background-size: cover;
 }
 .row h1 {
   color:#f5f5f5;
 }
+.row h3{
+  color:#f5f5f5;
+}
 .row p{
   color: #f5f5f5;
+    font-size: 20px;
+   
+}
+.col-md-12 p {
+  color:black
 }
 .well{
-  background-color:#33475b
+  background-color:rgba(129, 181, 148, 1);
+  text-align: center;
 }
 .well h5{
   color: #f5f5f5;
+}
+
+.amazontext{
+  background-color:rgba(129, 181, 148, 1);
+  padding: 5px;
+  border: 1px solid #e3e3e3;
+  text-justify: middle;
+}
+
+.bottom-text p{
+  color: #f5f5f5;
+}
+
+#chart{
+  padding-left: 60px;
 }
 #footer {
   position: absolute;
