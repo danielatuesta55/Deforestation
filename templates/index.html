@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Deforestation Study</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!---modified-->
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+  <!-- Our CSS  -->
+  <link rel="stylesheet" href="./static/css/style.css" />
+  <!---modified-->
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Rainforest Deforestation Study</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Brazilian State:</h5>
+          <select id="selDataset">
+            <option value="AC">AC</option>
+            <option value="AM">AM</option>
+            <option value="AP">AP</option>
+            <option value="MA">MA</option>
+            <option value="MT">MT</option>
+            <option value="PA">PA</option>
+            <option value="RO">RO</option>
+            <option value="RR">RR</option>
+            <option value="TO">TO</option>
+          </select>
+        </div>
+        <!-- <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Map Info</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>  not sure we need this, but will see -->
+        </div>
+      </div>
+      <div class="col-md-10">
+        <div id="chart"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-10">
+        <div id="map"></div>
+      </div>
+      <!-- <div class="col-md-6">
+        <div id="chart2"></div>
+      </div> -->
+    </div>
+  </div>
+
+
+
+ 
+
+  <!-- API key -->
+    <!-- <script type="text/javascript" src="../static/js/config.js"></script> -->
+
+  <!--Data-->
+    <!-- <script src="static/js/bonus.js"></script> -->
+    <!-- <script src="data/samples.json"></script> -->  <!-- *UPDATE* PULL IN DATA AS NEEDED -->
+
+  <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+  
+  <!-- D3 CDN --> 
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+  
+  <!-- JS --> 
+    <script src="../static/js/app.js"></script>
+    <!-- <script type="text/javascript" src="static/js/just-crime.js"></script> -->
+    <!-- <script type="text/javascript" src="static/js/heatmap.js"></script> -->  <!-- IF ADD HEAT MAMP MAY NEED THIS -->
+
+  <!-- Plotly Plug-in-->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  <!-- Leaflet heatmap plugin-->
+    <!-- <script type="text/javascript" src="static/js/leaflet-heat.js"></script> -->  <!-- IF ADD HEAT MAMP MAY NEED THIS -->
+  <!---modified-->
+</body>
+
+</html>
